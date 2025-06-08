@@ -1,2 +1,2 @@
-# Titani data Analysis using machine learning gradient boosting technique
+# Titanic data Analysis using machine learning gradient boosting technique
 
